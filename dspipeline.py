@@ -12,7 +12,8 @@ Description:
 
 Usage:
     <usage>
-
+    import dspipeline
+    dspipeline.adult_data_demo()
 """
 
 import argparse
